@@ -1,0 +1,25 @@
+{
+  "name": "mobile-flutter-td-tp",
+  "version": "1.0.0",
+  "description": "Bienvenue dans le repo officiel du **Module Mobile avec Flutter**. Ce repo contient tous les **Travaux Dirigés (TDs)** et **Travaux Pratiques (TPs)** pour apprendre le développement mobile (Flutter).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Afrae2112/mobile-flutter-td-tp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Afrae2112/mobile-flutter-td-tp/issues"
+  },
+  "homepage": "https://github.com/Afrae2112/mobile-flutter-td-tp#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security"
+  }
+}

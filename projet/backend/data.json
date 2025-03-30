@@ -1,0 +1,38 @@
+{
+  "products": [
+    {
+      "name": "Produit 1",
+      "price": 100,
+      "stock": 50,
+      "categorie": "Phone"
+    },
+    {
+      "name": "Produit 2",
+      "price": 1000,
+      "stock": 50,
+      "categorie": "pc"
+    },
+    {
+      "name": "Produit 3",
+      "price": 1050,
+      "stock": 50,
+      "categorie": "pc"
+    },
+    {
+      "name": "Produit 1",
+      "price": 100,
+      "stock": 50,
+      "categorie": "Phone"
+    }
+  ],
+  "orders": [
+    {
+      "product": "Produit 1",
+      "quantity": 2
+    },
+    {
+      "product": "Produit 1",
+      "quantity": 2
+    }
+  ]
+}
